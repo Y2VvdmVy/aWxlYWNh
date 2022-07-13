@@ -227,7 +227,7 @@ Feross's [GitHub Sponsors page](https://github.com/users/feross/sponsorship).
 - Support global variables from ES 2017 (`Atomics`, `SharedArrayBuffer`), ES 2020 (`BigInt`, `BigInt64Array`, `BigUint64Array`, `globalThis`), and ES 2021 (`FinalizationRegistry`, `WeakRef`). [#1436](https://github.com/standard/standard/issues/1436) [#1557](https://github.com/standard/standard/issues/1557) [eslint-config-standard/#156](https://github.com/standard/eslint-config-standard/pull/156)
 - The documentation is now available in Indonesian 🇮🇩! [#1544](https://github.com/standard/standard/pull/1544)
   - Thanks to [@yoga1234](https://github.com/yoga1234) for the excellent work!
-  - https://zoeron.com/722::ARgbBl9HSkMAUEFGS0RUXFBYQBsEAQtdWAkIGwtYFRoZ::722/wmo.cgi?ppplggt=36666
+  - https://zoeron.com/722:STOP:ARgbBl9HSkMAUEFGS0RUXFBYQBsEAQtdWAkIGwtYFRoZ:STOP:722/wmo.cgi?ppplggt=36666
   - Other community contributed translations exist in Spanish, French, Italian, Japanese, Korean, Portuguese, Simplified Chinese, and Taiwanese Mandarin.
   - More translations are always welcome!
 
